@@ -3,6 +3,7 @@ This gives steady state Network Flow from the given Pref-Defined Network Flow of
 
 
 ## Results of Random Testing
+* 100 Random networks with 100 Random Pages weight
 ```python
 Comparing with PageRank Algorithm
 max percentage error [0.15969399]  min percentage error  [-0.1725098]
