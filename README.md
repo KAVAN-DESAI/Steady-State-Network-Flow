@@ -1,6 +1,17 @@
 # Steady-State-Network-Flow
 This gives steady state Network Flow from the given Pref-Defined Network Flow of a System.
 
+
+# Results of Random Testing:
+```python
+Comparing with PageRank Algorithm
+max percentage error [0.15969399]  min percentage error  [-0.1725098]
+Comparing with Power Iteration Algorithm
+max percentage error  [0.15969399]  min percentage error  [-0.1725098]
+
+±0.18% error found
+
+```
 ### What is Network Flow?
 
 * A network is a directed graph that forms a system of nodes and edges that connect them to each other. 
